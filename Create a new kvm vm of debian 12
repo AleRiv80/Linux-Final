@@ -1,0 +1,26 @@
+For this step will need:
+debian-12.8.0-amd64-netinst.iso
+the preset files because we are using automated installation: https://phillipsd.com/210/labs/f24vda.cfg
+the post_run file that will be install the most of the script necesary for run our VM.:https://phillipsd.com/210/labs/post_run
+
+We start for open KVM
+Im using because that we will use for adding more Virtual hardware in the future steps
+
+
+browse for ISO file and continue with defaults
+
+image
+
+advanced options
+
+image
+
+automated install
+
+image
+
+we take the precede file from the webpage #i know the SS has the wrong address the actual address used was phillipsd.com/210/f24vda.cfg
+
+image
+
+we in!
